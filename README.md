@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=UrBGPI2leW4
 
+#linux
+
+https://www.youtube.com/watch?v=BWe2bnL0Nl8
+
 ## noVNC: HTML VNC client library and application
 
 [![Test Status](https://github.com/novnc/noVNC/workflows/Test/badge.svg)](https://github.com/novnc/noVNC/actions?query=workflow%3ATest)
